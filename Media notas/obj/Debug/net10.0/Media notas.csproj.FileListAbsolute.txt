@@ -1,0 +1,14 @@
+C:\Users\49575763866\source\repos\matheusc#\Media notas\bin\Debug\net10.0\Media notas.exe
+C:\Users\49575763866\source\repos\matheusc#\Media notas\bin\Debug\net10.0\Media notas.deps.json
+C:\Users\49575763866\source\repos\matheusc#\Media notas\bin\Debug\net10.0\Media notas.runtimeconfig.json
+C:\Users\49575763866\source\repos\matheusc#\Media notas\bin\Debug\net10.0\Media notas.dll
+C:\Users\49575763866\source\repos\matheusc#\Media notas\bin\Debug\net10.0\Media notas.pdb
+C:\Users\49575763866\source\repos\matheusc#\Media notas\obj\Debug\net10.0\Media notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49575763866\source\repos\matheusc#\Media notas\obj\Debug\net10.0\Media notas.AssemblyInfoInputs.cache
+C:\Users\49575763866\source\repos\matheusc#\Media notas\obj\Debug\net10.0\Media notas.AssemblyInfo.cs
+C:\Users\49575763866\source\repos\matheusc#\Media notas\obj\Debug\net10.0\Media notas.csproj.CoreCompileInputs.cache
+C:\Users\49575763866\source\repos\matheusc#\Media notas\obj\Debug\net10.0\Media notas.dll
+C:\Users\49575763866\source\repos\matheusc#\Media notas\obj\Debug\net10.0\refint\Media notas.dll
+C:\Users\49575763866\source\repos\matheusc#\Media notas\obj\Debug\net10.0\Media notas.pdb
+C:\Users\49575763866\source\repos\matheusc#\Media notas\obj\Debug\net10.0\Media notas.genruntimeconfig.cache
+C:\Users\49575763866\source\repos\matheusc#\Media notas\obj\Debug\net10.0\ref\Media notas.dll

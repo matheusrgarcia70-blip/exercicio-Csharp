@@ -1,0 +1,14 @@
+C:\Users\49575763866\source\repos\matheusc#\Exerciosdeprog\Exercicios logicaProg\obj\Debug\net10.0\Exercicios logicaProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49575763866\source\repos\matheusc#\Exerciosdeprog\Exercicios logicaProg\obj\Debug\net10.0\Exercicios logicaProg.AssemblyInfoInputs.cache
+C:\Users\49575763866\source\repos\matheusc#\Exerciosdeprog\Exercicios logicaProg\obj\Debug\net10.0\Exercicios logicaProg.AssemblyInfo.cs
+C:\Users\49575763866\source\repos\matheusc#\Exerciosdeprog\Exercicios logicaProg\obj\Debug\net10.0\Exercicios logicaProg.csproj.CoreCompileInputs.cache
+C:\Users\49575763866\source\repos\matheusc#\Exerciosdeprog\Exercicios logicaProg\bin\Debug\net10.0\Exercicios logicaProg.exe
+C:\Users\49575763866\source\repos\matheusc#\Exerciosdeprog\Exercicios logicaProg\bin\Debug\net10.0\Exercicios logicaProg.deps.json
+C:\Users\49575763866\source\repos\matheusc#\Exerciosdeprog\Exercicios logicaProg\bin\Debug\net10.0\Exercicios logicaProg.runtimeconfig.json
+C:\Users\49575763866\source\repos\matheusc#\Exerciosdeprog\Exercicios logicaProg\bin\Debug\net10.0\Exercicios logicaProg.dll
+C:\Users\49575763866\source\repos\matheusc#\Exerciosdeprog\Exercicios logicaProg\bin\Debug\net10.0\Exercicios logicaProg.pdb
+C:\Users\49575763866\source\repos\matheusc#\Exerciosdeprog\Exercicios logicaProg\obj\Debug\net10.0\Exercicios logicaProg.dll
+C:\Users\49575763866\source\repos\matheusc#\Exerciosdeprog\Exercicios logicaProg\obj\Debug\net10.0\refint\Exercicios logicaProg.dll
+C:\Users\49575763866\source\repos\matheusc#\Exerciosdeprog\Exercicios logicaProg\obj\Debug\net10.0\Exercicios logicaProg.pdb
+C:\Users\49575763866\source\repos\matheusc#\Exerciosdeprog\Exercicios logicaProg\obj\Debug\net10.0\Exercicios logicaProg.genruntimeconfig.cache
+C:\Users\49575763866\source\repos\matheusc#\Exerciosdeprog\Exercicios logicaProg\obj\Debug\net10.0\ref\Exercicios logicaProg.dll

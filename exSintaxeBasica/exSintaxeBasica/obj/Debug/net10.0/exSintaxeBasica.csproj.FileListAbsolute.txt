@@ -1,0 +1,4 @@
+C:\Users\49575763866\source\repos\matheusc#\exSintaxeBasica\exSintaxeBasica\obj\Debug\net10.0\exSintaxeBasica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49575763866\source\repos\matheusc#\exSintaxeBasica\exSintaxeBasica\obj\Debug\net10.0\exSintaxeBasica.AssemblyInfoInputs.cache
+C:\Users\49575763866\source\repos\matheusc#\exSintaxeBasica\exSintaxeBasica\obj\Debug\net10.0\exSintaxeBasica.AssemblyInfo.cs
+C:\Users\49575763866\source\repos\matheusc#\exSintaxeBasica\exSintaxeBasica\obj\Debug\net10.0\exSintaxeBasica.csproj.CoreCompileInputs.cache

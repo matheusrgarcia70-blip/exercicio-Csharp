@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\49575763866\\source\\repos\\matheusc#\\exSintaxeBasica\\exSintaxeBasica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{933AC233-F8E4-4247-AF8C-039A105427D1}|exSintaxeBasica.csproj|c:\\users\\49575763866\\source\\repos\\matheusc#\\exsintaxebasica\\exsintaxebasica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933AC233-F8E4-4247-AF8C-039A105427D1}|exSintaxeBasica.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\49575763866\\source\\repos\\matheusc#\\exSintaxeBasica\\exSintaxeBasica\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\49575763866\\source\\repos\\matheusc#\\exSintaxeBasica\\exSintaxeBasica\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T19:44:25.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
